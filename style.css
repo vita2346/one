@@ -4,7 +4,11 @@ font-size:20px;
 header{
 background-color: FFFF73;
   border:7px solid FFFF73;
+ width:100%;
 }  
+#headerContent{
+    margin: 0 auto; width: 960px;
+}
 header h1{
   color: 7109AA;
   text-align: center;
