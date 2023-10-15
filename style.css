@@ -63,7 +63,6 @@ text-align:right;
 }
 .textcols-left {
 	float: left;
+	margin: 10px;
 }
-.textcols-right {
-	margin-left: 52%;;
-}
+
